@@ -10,10 +10,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="45" height="45"/>
    </a>
 
-   <a href="mailto:egailmohamed2018@gmail.com?subject=GitHub&body=Hello%20Mohamed%2C%20%0D%0A%0D%0A%0D%0A%0D%0A" target="_blank" rel="noopener noreferrer">
+   <a href="mailto:egailmohamed2018@gmail.com?subject=Github collab" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45"/>
    </a>
-
+   
 </div>
    
 
@@ -33,7 +33,6 @@
           
 </div>
 
----
 
 
 

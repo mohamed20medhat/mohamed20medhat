@@ -21,7 +21,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45" height="45"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="45" height="45"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="45" height="45"/>

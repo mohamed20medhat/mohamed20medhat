@@ -2,8 +2,10 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently building projects with mern stack
 - 💞️ I’m looking to collaborate on full stack applications with mern
-- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-In-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-medhat-337b811b8/)
-
+- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-medhat-337b811b8/)
+   - <a href="https://www.linkedin.com/in/mohamed-medhat-337b811b8/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
+     </a>
 
 ---
 

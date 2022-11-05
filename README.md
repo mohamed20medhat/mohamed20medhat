@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mohamed Medhat, Mern Stack Developer
-- 👀 I’m interested in web development
-- 🌱 I’m currently building projects with mern stack
+- 👋 Hi, I’m Mohamed Medhat, 
+- 👀 I’m a Mern Stack Developer and grad year student at tanta university Computer engineering
 - 💞️ I’m looking to collaborate on full stack applications with mern
 
 ---
@@ -10,7 +9,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="45" height="45"/>
    </a>
 
-   
 </div>
    
 
@@ -31,6 +29,16 @@
           
 </div>
 
+---
+### 🌱 Live Sites : 
+- [portfolio](https://nextjs-portfolio-tailwind-2cqf16969-mohamed20medhat.vercel.app/)
+- 
+
+##### Odin Projects With JS
+- [Landling Page](https://mohamed20medhat.github.io/odin-landing-page/)
+- [Rock Paper Sissors](https://mohamed20medhat.github.io/rock_paper_scissors_odin/)
+- [Etch a Sketch](https://mohamed20medhat.github.io/etch-a-ketch/)
+- [Calculator](https://mohamed20medhat.github.io/JScalculator/)
 
 
 

@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mohamed Medhat, 
-- 👀 I’m a Mern Stack Developer and grad year student at tanta university Computer engineering
-- 💞️ I’m looking to collaborate on full stack applications with mern
+👋 Hi, I’m Mohamed Medhat, Mern Stack Developer
+💞️ I’m looking to collaborate on full stack applications with mern
 
 ---
 ### 📫 Reach Me On :  
